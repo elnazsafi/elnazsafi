@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 20 16:03:12 2019
-
-@author: Elnaz
-"""
-
-#%%%%%%%%%%%%%%
 
 #TASK ONE
 import numpy as np 
